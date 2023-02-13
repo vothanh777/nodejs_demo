@@ -21,7 +21,7 @@
   ],
   "author": "Anvt",
   "license": "ISC",
-  "type": "module",
+  "type": "commonjs",
   "bugs": {
     "url": "https://github.com/vothanh777/nodejs_demo/issues"
   },
