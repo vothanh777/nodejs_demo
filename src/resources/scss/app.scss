@@ -1,11 +1,5 @@
 @import 'variables';
-h1{
-    color: $red-color;
-}
-h2{
-    color: $blue-color;
-}
-.test{
-    font-size: 1.5rem;
-    background-color: $pink-color;
+
+.card-course-item{
+    margin-top: 16px;
 }
